@@ -1,0 +1,8 @@
+numpy==1.26.4
+torch==2.4.0
+torch-scatter==2.1.2+pt24cu118
+tqdm==4.66.5
+prettytable==3.5.0
+scikit-learn==1.5.1
+scipy==1.12.0
+dgl==1.1.2
